@@ -1,0 +1,2 @@
+# google-drive-document-ocr
+グーグルドライブのから画像をドキュメントで開くとOCR結果が出るのを利用してPythonAPIで画像のOCRを行う
