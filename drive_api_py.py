@@ -9,7 +9,7 @@ SCOPES = ['https://www.googleapis.com/auth/drive']
 DOC_SCOPES = ['https://www.googleapis.com/auth/documents']
 
 
-folder_id = '1pTCwh_QLgjShk-tgmoXgbbDnCDKSN3DW'
+folder_id = '!!!write your folder ID!!!'
 
 
 # 画像ファイルを特定のフォルダにアップロードする
